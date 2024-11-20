@@ -1,4 +1,4 @@
-# Nest TypeScript Starter
+# NestJS and BullMQ Example
 
 This is a starter repository for building applications using NestJS with TypeScript. It includes a sample workflow export module that demonstrates how to use BullMQ for job processing.
 
